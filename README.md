@@ -24,12 +24,9 @@
     <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/7.PNG">
     <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/8.PNG">
     <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/9.PNG">
-    
-    <hr>
-    
-    <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/homepage-1.png">
-    <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/homepage-2.png">
-    <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/homepage-3.png">
+    <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/homepage1.png">
+    <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/homepage2.png">
+    <img src="https://github.com/Sugyeong97/JavaMall/blob/master/pic/homepage3.png">
 </body>
 </html>
 
